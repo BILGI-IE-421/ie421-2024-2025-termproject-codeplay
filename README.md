@@ -37,14 +37,14 @@ hosting rights while others don’t. Through this study, we aim to clarify the r
 growth and Olympic expenditures. In the context of our data analysis course, this question serves as an
 important example of using real-world data to derive concrete insights.
 
-**About:**
+**Links**
 
 Olympic Official Records: https://olympics.com/en/olympic-games/olympic-results<br>
 GDP per capita: https://data.worldbank.org/<br>
 United Nations Population Division: https://www.un.org/development/desa/pd/<br>
 Economic Reports: https://www.oecd.org/en/topics/economic-outlook.html<br>
 
-Authors:<br>
+Team Members<br>
 Yeliz Avcı : 121203079<br>
 Atakan Alp Şerifoğlu : 122203121<br>
 
