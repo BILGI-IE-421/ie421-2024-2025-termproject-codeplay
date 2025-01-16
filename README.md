@@ -8,6 +8,7 @@ political events, and economic conditions. In this context, our study aims to an
 of the United States, Germany, and Russia, uncovering the dynamics behind their success.
 
 To focus our research and provide depth, we selected the following three key questions:
+
 **Question-1**: How do the medal counts of the United States, Russia, and Germany differ?
 This question aims to compare the overall medal performances of these three nations to identify 
 which has demonstrated more consistent success. International platforms like the Olympic Games are 
