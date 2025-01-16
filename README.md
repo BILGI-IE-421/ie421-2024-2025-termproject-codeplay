@@ -18,9 +18,7 @@ and shifts in international relations have influenced disparities in medal count
 
 
 **Question-2 :** In which sports do the United States, Russia, and Germany excel, and what are the disciplines where they win the most medals?
-The sports in which each country excels shed light on their historical and cultural contexts. For instance, a country’s dominance in a 
-specific discipline may be directly linked to societal values or government policies. This question seeks to explore the reasons
-behind the United States' strength in athletics, Russia's dominance in gymnastics and ice hockey, or Germany's prominence in cycling and swimming.
+The sports in which each country excels shed light on their historical and cultural contexts. 
 Understanding which sports these nations prioritize and how these achievements result from strategic planning or infrastructure investments will help
 uncover the varying approaches behind Olympic success.
 
