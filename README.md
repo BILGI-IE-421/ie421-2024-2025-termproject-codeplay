@@ -28,6 +28,7 @@ The Olympics have long been a stage where the impacts of global political and so
 
 
 The rationale behind selecting these questions lies in the belief that the Olympics are more than just a sporting event—they are a reflection of a nation's social, and political circumstances. Our study seeks to uncover the historical and political contexts behind the achievements of these three countries, contributing to a deeper understanding of the complex framework underpinning the international sports arena.
+
 **Links**
 
 Olympic Official Records: https://olympics.com/en/olympic-games/olympic-results<br>
