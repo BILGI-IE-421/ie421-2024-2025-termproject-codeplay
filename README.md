@@ -7,6 +7,6 @@ The Olympic Games have always been more than just a global sporting event; they 
 Yeliz Avcı : 121203079<br>
 Atakan Alp Şerifoğlu : 122203121<br>
 
-GitHub Website: https://atakanalp.github.io/atiyel.github.io/<br>
-
+Website Link: https://atakanalp.github.io/atiyel.github.io/<br>
+Website Github repository: https://github.com/Atakanalp/atiyel.github.io
 
